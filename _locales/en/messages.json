@@ -1,0 +1,6 @@
+{
+  "description": {
+    "message": "This solution ensures users are redirected to their last visited page when they re-login, instead of being sent to the home page.",
+    "description": "Extension description"
+  }
+}
