@@ -9,7 +9,7 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
         chrome.storage.local.get(['last_time', 'last_url'], (result) => {
             const timeDifference = (new Date().getTime() - result.last_time) / 1000;
 
-            if (timeDifference <= 3600 && result.last_url) {
+            if (result.last_url && timeDifference <= 21600) {
                 chrome.tabs.update(sender.tab.id, { url: result.last_url });
             }
         });
