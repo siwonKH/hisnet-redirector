@@ -6,7 +6,6 @@
 ### 설치 방법
 크롬 웹 스토어: [Hisnet Redirector](https://chromewebstore.google.com/detail/hisnet-redirector/nomblfjgcjgmibkdopnpcndmommpklfh)
 
----
 
 ## 업데이트 내역
 
@@ -20,7 +19,6 @@
 - **초기 릴리스**: Hisnet Redirector의 첫 번째 버전 출시.
 - **기능 추가**: 사용자가 로그인 후 원래 접근하려던 페이지로 자동 이동하는 기능 구현.
 
----
 ## 소개
 
 ### 기존 문제
