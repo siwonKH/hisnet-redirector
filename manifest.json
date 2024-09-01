@@ -26,7 +26,8 @@
         "https://hisnet.handong.edu/",
         "https://hisnet.handong.edu/login*",
         "https://hisnet.handong.edu/main.php",
-        "https://hisnet.handong.edu/for_student/main.php"
+        "https://hisnet.handong.edu/for_student/main.php",
+        "https://hisnet.handong.edu/myboard/list.php"
       ],
       "js": ["content_other.js"],
       "run_at": "document_start"
